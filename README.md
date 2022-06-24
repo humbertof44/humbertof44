@@ -54,7 +54,7 @@
 - 🧑‍🎓 Trained at Universidad Nacional Experimental Politécnica "Antonio José de Sucre" (Caracas, Venezuela).
 - 🧑‍💻 Full Stack Developer, with extensive experience in web development and custom software solutions.
 
-### 🌱 I'm currently learning... / Last Projects
+### 📚 I'm currently learning...
 
 - GraphQL / Neo4J / NodeJS
 - React JS
