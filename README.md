@@ -1,12 +1,12 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
 ```shell
- { “name” : “Verónica Moreno Flores”,
-   “role” : “Frontend Dev | MERN Stack”,
+ { “name” : “Humberto Gabriel Fernández Moreno”,
+   “role” : “Frontend Dev | MEAN Stack”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
-      "Resume"   : "https://veromoreno.github.io/",
+      "Linkedin" : "https://www.linkedin.com/in/humberto-gabriel-fern%C3%A1ndez-moreno-1304b78b/", 
+      "Resume"   : "https://drive.google.com/file/d/1AmpX0SHCAk8Sa3IyqcH16JFa2XtbWOq5/view?usp=sharing",
       "IG"       : "https://www.instagram.com/veritechie"
      }
  }
@@ -18,7 +18,7 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
   
@@ -30,8 +30,8 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 <h4>Backend Development</h4>
 <p>
@@ -48,8 +48,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 
