@@ -50,8 +50,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 
-### 👨‍🎓 Systems Engineer trained at Universidad Nacional Experimental Politécnica "Antonio José de Sucre" (Caracas, Venezuela).
-
+### 👨‍🎓 Systems Engineer 
+- Trained at Universidad Nacional Experimental Politécnica "Antonio José de Sucre" (Caracas, Venezuela).
 - 🧑‍💻 Full Stack Developer, with extensive experience in web development and custom software solutions.
 
 ### 🌱 I'm currently learning... / Last Projects
