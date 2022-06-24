@@ -7,7 +7,7 @@
      { 
       "Linkedin" : "https://www.linkedin.com/in/humberto-gabriel-fern%C3%A1ndez-moreno-1304b78b/", 
       "Resume"   : "https://drive.google.com/file/d/1AmpX0SHCAk8Sa3IyqcH16JFa2XtbWOq5/view?usp=sharing",
-      "IG"       : "https://www.instagram.com/veritechie"
+      "Email"    : "humbertof44@gmail.com"
      }
  }
 ```
@@ -61,24 +61,6 @@ My objective is to be able to share and motivate people who feel a strong concer
 - MEAN Stack Course (With official certificate in MongoDB)
 - FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a> in <a href="https://codesandbox.io/u/veroMoreno" target="_blank">Codesandbox</a>
 
-
-### 🗣 Veronica as speaker
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="http://www.emperiial.de/wp-content/uploads/2020/01/9xEsZ-ph_400x400.jpg"/>](https://www.instagram.com/p/CcBYOECjp6s/) 
-**Colloquium of Women for Change 👩‍💻CODERS** \
-Talk to inspire future generations about great opportunities
-that offers the figure of women in technology and Esports sectors [Click to see](https://www.instagram.com/p/CcBYOECjp6s/) 
-
----
-[<img align="left" height="94px" width="120px" background-size="cover" alt="Warpnet" src="https://i0.wp.com/www.santiagosaroortiz.com/web/wp-content/uploads/2021/02/Santander-Global-Tech.jpg?w=680&ssl=1"/>](https://www.instagram.com/tv/CZzVgSdFGU1/) 
-**Technology has no gender** \
-Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
-
----
-
-### Sometimes I write 
-
-<a href="https://dev.to/veritechie">  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-
 ### Github Stats:
 
 <table>
@@ -87,7 +69,3 @@ Visibility of women in the world of Technology, know the factors that weaken wom
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
-
-
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
