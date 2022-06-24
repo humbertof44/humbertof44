@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Humberto Gabriel Fernández Moreno”,
-   “role” : “Frontend Dev | MEAN Stack”,
+   “role” : “Full Stack Developer”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/humberto-gabriel-fern%C3%A1ndez-moreno-1304b78b/", 
