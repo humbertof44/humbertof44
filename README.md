@@ -56,7 +56,7 @@
 ### 🧑‍💻 About:
 - Full Stack Developer, with extensive experience in web development and custom software solutions.
 
-### 📚 I'm currently learning...
+### 📚 I'm currently learning:
 - GraphQL / Neo4J / NodeJS
 - React JS
 - MEAN Stack Course
@@ -66,7 +66,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertof44&theme=radical&card_width=450em)](https://github.com/humbertof44/humbertof44/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertof44&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
