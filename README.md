@@ -51,7 +51,7 @@
 </p>
 
 ### 👨‍🎓 Systems Engineer 
-- Trained at Universidad Nacional Experimental Politécnica "Antonio José de Sucre" (Caracas, Venezuela).
+- 🧑‍🎓 Trained at Universidad Nacional Experimental Politécnica "Antonio José de Sucre" (Caracas, Venezuela).
 - 🧑‍💻 Full Stack Developer, with extensive experience in web development and custom software solutions.
 
 ### 🌱 I'm currently learning... / Last Projects
