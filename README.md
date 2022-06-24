@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Humberto Gabriel Fernández Moreno”,
-   “about” : “Full Stack Developer, with extensive experience in web development and custom software solutions”,
+   “role” : “Frontend Dev | MEAN Stack”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/humberto-gabriel-fern%C3%A1ndez-moreno-1304b78b/", 
@@ -11,9 +11,6 @@
      }
  }
 ```
-
-### 👨‍🎓 Profession:
-- Systems Engineer trained at Universidad Nacional Experimental Politécnica "Antonio José de Sucre" (Caracas, Venezuela).
 
 <h3>
   🚀 Principal Stack
@@ -52,6 +49,12 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
+
+### 👨‍🎓 Profession:
+- Systems Engineer trained at Universidad Nacional Experimental Politécnica "Antonio José de Sucre" (Caracas, Venezuela).
+
+### 🧑‍💻 About:
+- Full Stack Developer, with extensive experience in web development and custom software solutions.
 
 ### 📚 I'm currently learning...
 - GraphQL / Neo4J / NodeJS
