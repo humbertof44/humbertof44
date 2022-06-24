@@ -59,7 +59,7 @@
 - GraphQL / Neo4J / NodeJS
 - React JS
 - MEAN Stack Course
-- FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a> in <a href="https://codesandbox.io/u/veroMoreno" target="_blank">Codesandbox</a>
+- FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a>
 
 ### Github Stats:
 
