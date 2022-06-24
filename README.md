@@ -56,9 +56,9 @@
 
 ### 🌱 I'm currently learning... / Last Projects
 
-- GraphQL / Heroku / Docker 
-- Advance React JS
-- MEAN Stack Course (With official certificate in MongoDB)
+- GraphQL / Neo4J / NodeJS
+- React JS
+- MEAN Stack Course
 - FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a> in <a href="https://codesandbox.io/u/veroMoreno" target="_blank">Codesandbox</a>
 
 ### Github Stats:
