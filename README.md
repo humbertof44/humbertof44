@@ -57,7 +57,7 @@
 - Full Stack Developer, with extensive experience in web development and custom software solutions.
 
 ### 📚 I'm currently learning:
-- GraphQL / Neo4J / NodeJS
+- GraphQL / Apolo / Neo4J
 - React JS
 - MEAN Stack Course
 - FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a>
